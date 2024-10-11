@@ -1,5 +1,5 @@
 
-# Bouncing DVD Logo with Pygame
+# Bouncing DVD Logo Screensaver
 
 This Python script creates a bouncing DVD logo simulation using the Pygame library. It features a DVD logo that moves around the screen, changes color, and plays a sound when it hits the edges of the window. The script also includes a full-screen mode toggle for an immersive experience.
 
