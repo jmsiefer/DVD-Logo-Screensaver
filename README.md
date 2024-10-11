@@ -23,10 +23,10 @@ pip install pygame
 ## Usage
 
 1. Clone this repository or download the script.
-2. Ensure you have the following files in the specified paths:
-   - A logo image at `C:\Users\JSiefer\Desktop\PYTHON\DVD LOGO\DVD.png`
-   - A sound file at `C:\Users\JSiefer\Desktop\PYTHON\DVD LOGO\Fart.mp3`
-3. Run the script using:
+2. Ensure you have the following files located in the same directory as the script:
+   - A logo image `DVD.png`
+   - A sound file `Fart.mp3`
+4. Run the script using:
    ```bash
    python DVD.py
    ```
